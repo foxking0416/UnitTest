@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Module", "Module.vcxproj", "{A6253E77-4395-460E-AAFE-208B44BF90E6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ModuleTest", "ModuleTest\ModuleTest.vcxproj", "{4D161FDA-A6F4-4034-960E-F43B610C41A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6253E77-4395-460E-AAFE-208B44BF90E6}.Debug|x64.ActiveCfg = Debug|x64
+		{A6253E77-4395-460E-AAFE-208B44BF90E6}.Debug|x64.Build.0 = Debug|x64
+		{A6253E77-4395-460E-AAFE-208B44BF90E6}.Release|x64.ActiveCfg = Release|x64
+		{A6253E77-4395-460E-AAFE-208B44BF90E6}.Release|x64.Build.0 = Release|x64
+		{4D161FDA-A6F4-4034-960E-F43B610C41A2}.Debug|x64.ActiveCfg = Debug|x64
+		{4D161FDA-A6F4-4034-960E-F43B610C41A2}.Debug|x64.Build.0 = Debug|x64
+		{4D161FDA-A6F4-4034-960E-F43B610C41A2}.Release|x64.ActiveCfg = Release|x64
+		{4D161FDA-A6F4-4034-960E-F43B610C41A2}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5A7AD90-D8A1-4C4B-85C3-AF796E0463E1}
+	EndGlobalSection
+EndGlobal
